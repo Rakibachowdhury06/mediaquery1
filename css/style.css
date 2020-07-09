@@ -1,0 +1,9 @@
+.box{
+	min-height: 100px;
+	background-color:darksalmon;
+}
+.box h1{
+	font-size: 60px;
+	color:white;
+	text-align: center;
+}
